@@ -17,7 +17,9 @@ Here is a preview of the resulting database:
 <br>
 ![Notion-Database_Preview](https://github.com/FishTomato/Leetcode-Webscraper/assets/39258489/97ba1033-e37b-4388-aae7-011e7e1cd53c)
 
-Click [here](https://playful-fiber-e5a.notion.site/122e061eac694634a1d4783d2aeacee5?v=cbab101d2adf43faae1fccf9ca7e2b63) for the Notion Database Template.
+~Click here for the Notion Database Template.~ 
+<br>
+Site it currently in work in progress
 
 ## Installation
 
