@@ -19,7 +19,7 @@ Here is a preview of the resulting database:
 
 ~Click here for the Notion Database Template.~ 
 <br>
-Site it currently in work in progress
+Site is currently in work in progress
 
 ## Installation
 
